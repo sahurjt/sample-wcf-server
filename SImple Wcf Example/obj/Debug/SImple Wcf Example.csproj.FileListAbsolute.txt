@@ -1,0 +1,7 @@
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\bin\SImple Wcf Example.dll.config
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\bin\SImple Wcf Example.dll
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\bin\SImple Wcf Example.pdb
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\obj\Debug\SImple Wcf Example.csprojResolveAssemblyReference.cache
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\obj\Debug\SImple Wcf Example.csproj.CoreCompileInputs.cache
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\obj\Debug\SImple Wcf Example.dll
+c:\users\rajat-nineleaps\source\repos\SImple Wcf Example\SImple Wcf Example\obj\Debug\SImple Wcf Example.pdb
